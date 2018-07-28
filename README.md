@@ -9,4 +9,4 @@ All functions developed for this project can be found in *function* folder. The 
 
 # Acknowledgement
 * This work is in colloboration with Yidan Chen in University of Waterloo. 
-* The code in **hlm-functions.R** is provided by Prof. Martin Lysy in Statistics and Acturial Science department, University of Waterloo, who was the instructor of STAT 440 in Winter 2018 academic term.
+* The code in **hlm-functions.R, ghyp-functions.R, randGIG.cpp** is provided by Prof. Martin Lysy in Statistics and Acturial Science department, University of Waterloo, who was the instructor of STAT 440 in Winter 2018 academic term.
