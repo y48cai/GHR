@@ -4,7 +4,7 @@ Generalized Hyperbolic Regression Modeling for Survival Data
 This is the final project of STAT 440: Computational Inference (Winter 2018) at University of Waterloo.
 
 The final report can be found in **report.pdf**. The dataset we used is the `colon` dataset in R's `survival` package. 
-All functions developed for this project can be found in **functions** folder. The code for data analysis and for validating the correctness of the functions can be found in **analysis.R"**.
+All functions developed for this project can be found in **functions** folder. The code for data analysis and for validating the correctness of the functions can be found in **analysis.R**.
 
 keywords: Bayesian Inference, Gibbs Sampling, MCMC, Survival Analysis
 
